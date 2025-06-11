@@ -520,7 +520,7 @@ Han, Y., Li, G., Yuan, H. and Sun, J., TKDE, 2022. [[paper](https://ieeexplore.i
 
 **[Card, Query-based]** Fang Wang, Xiao Yan, Man Lung Yiu, Shuai Li, Zunyao Mao, and Bo Tang. Speeding Up End-to-end Query Execution via Learning-based Progressive Cardinality Estimation. SIGMOD, 2023. [[paper](https://dl.acm.org/doi/pdf/10.1145/3588708)]
 
-**[Card, Query&Data-based]** Zhang, Kaixin, Hongzhi Wang, Yabin Lu, Ziqi Li, Chang Shu, Yu Yan, and Donghua Yang. Duet: Efficient and Scalable hybriD neUral rElation undersTanding. *ICDE, 2024.* [[paper](https://doi.org/10.48550/arXiv.2307.13494.)] [[code](https://github.com/GIS-PuppetMaster/Duet)]
+**[Card, Query&Data-based]** Zhang, Kaixin, Hongzhi Wang, Yabin Lu, Ziqi Li, Chang Shu, Yu Yan, and Donghua Yang. Duet: Efficient and Scalable hybriD neUral rElation undersTanding. *ICDE, 2024.* [[paper](https://arxiv.org/abs/2307.13494)] [[code](https://github.com/GIS-PuppetMaster/Duet)]
 
 **[ EA&B ]** Wang, X., Qu, C., Wu, W., Wang, J., & Zhou, Q. (2021). Are We Ready For Learned Cardinality Estimation?  Proc. VLDB Endow. 14(9): 1640-1654 (2021). [[paper](http://www.vldb.org/pvldb/vol14/p1640-wang.pdf)]
 
