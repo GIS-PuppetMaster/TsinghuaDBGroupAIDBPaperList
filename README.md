@@ -920,6 +920,8 @@ Han, Y., Li, G., Yuan, H. and Sun, J., TKDE, 2022. [[paper](https://ieeexplore.i
 
 **[Card, Query-based]** Fang Wang, Xiao Yan, Man Lung Yiu, Shuai Li, Zunyao Mao, and Bo Tang. Speeding Up End-to-end Query Execution via Learning-based Progressive Cardinality Estimation. SIGMOD, 2023. [[paper](https://dl.acm.org/doi/pdf/10.1145/3588708)]
 
+**[Card, Query&Data-based]** Zhang, Kaixin, Hongzhi Wang, Yabin Lu, Ziqi Li, Chang Shu, Yu Yan, and Donghua Yang. Duet: Efficient and Scalable hybriD neUral rElation undersTanding. *ICDE, 2024.* [[paper](https://doi.org/10.48550/arXiv.2307.13494.)] [[code](https://github.com/GIS-PuppetMaster/Duet)]
+
 **[Card, Query&Data-based]** Pengfei Li, Wenqing Wei, Rong Zhu, Bolin Ding, Jingren Zhou, and Hua Lu. ALECE: An Attention-based Learned Cardinality Estimator for SPJ Queries on Dynamic Workloads. VLDB, 2024. [[paper](https://www.vldb.org/pvldb/vol17/p197-li.pdf)]
 
 **[Card, Attack]** Jintao Zhang, Guoliang Li, Chao Zhang, Chengliang Chai. PACE: Poisoning Attacks on Learned Cardinality Estimation. SIGMOD, 2024. [[paper](https://dl.acm.org/doi/10.1145/3639292)]
