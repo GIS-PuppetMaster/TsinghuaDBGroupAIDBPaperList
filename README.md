@@ -28,7 +28,7 @@ Table of Contents
     * [1.5 Hybrid Advisor (2)](#hybrid-advisor)
 * [2. Query Optimization](#2-query-optimization)
     * [2.1 Query Rewriter (13)](#query-rewriter)
-    * [2.2 Cardinality Estimation (36)](#cardinality-estimation)
+    * [2.2 Cardinality Estimation (37)](#cardinality-estimation)
     * [2.3 Cost Estimation (3)](#cost-estimation)
     * [2.4 Plan Optimization (25)](#plan-optimization)
 * [3. Workload Scheduling (2)](#3-workload-scheduling)
