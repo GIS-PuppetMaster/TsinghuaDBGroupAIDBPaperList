@@ -26,7 +26,7 @@
     * [1.5 混合调优 (2)](#混合调优)
 * [2. 查询优化](#2-查询优化)
     * [2.1 查询重写 (12)](#查询重写)
-    * [2.2 基数估计 (33)](#基数估计)
+    * [2.2 基数估计 (34)](#基数估计)
     * [2.3 代价估计 (3)](#代价估计)
     * [2.4 物理计划生成 (22)](#物理计划生成)
 * [3. 负载调度 (2)](#3-负载调度)
@@ -519,6 +519,8 @@ Han, Y., Li, G., Yuan, H. and Sun, J., TKDE, 2022. [[paper](https://ieeexplore.i
 **[Card]** Ziniu Wu, Parimarjan Negi, Mohammad Alizadeh, Tim Kraska, Samuel Madden. FactorJoin: A New Cardinality Estimation Framework for Join Queries. SIGMOD, 2023. [[paper](https://dl.acm.org/doi/10.1145/3588721)]
 
 **[Card, Query-based]** Fang Wang, Xiao Yan, Man Lung Yiu, Shuai Li, Zunyao Mao, and Bo Tang. Speeding Up End-to-end Query Execution via Learning-based Progressive Cardinality Estimation. SIGMOD, 2023. [[paper](https://dl.acm.org/doi/pdf/10.1145/3588708)]
+
+**[Card, Query&Data-based]** Zhang, Kaixin, Hongzhi Wang, Yabin Lu, Ziqi Li, Chang Shu, Yu Yan, and Donghua Yang. Duet: Efficient and Scalable hybriD neUral rElation undersTanding. *ICDE, 2024.* [[paper](https://doi.org/10.48550/arXiv.2307.13494.)] [[code](https://github.com/GIS-PuppetMaster/Duet)]
 
 **[ EA&B ]** Wang, X., Qu, C., Wu, W., Wang, J., & Zhou, Q. (2021). Are We Ready For Learned Cardinality Estimation?  Proc. VLDB Endow. 14(9): 1640-1654 (2021). [[paper](http://www.vldb.org/pvldb/vol14/p1640-wang.pdf)]
 
